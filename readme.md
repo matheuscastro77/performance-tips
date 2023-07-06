@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+[Performance Tips](https://performance-tips-sandy.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
